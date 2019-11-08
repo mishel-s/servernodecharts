@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+stats.*
+.env
+npm-debug.log
+.idea
+*.sw*
+yarn-error.log
+package-lock.json*
